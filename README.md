@@ -1,4 +1,4 @@
-## ** OPSEC Checklist for Phishing Campaigns (Red Team / Awareness Use Only)**
+## OPSEC Checklist for Phishing Campaigns (Red Team / Awareness Use Only)
 
 ---
 
