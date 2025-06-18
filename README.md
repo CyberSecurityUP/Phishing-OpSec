@@ -1,7 +1,5 @@
 ## OPSEC Checklist for Phishing Campaigns (Red Team / Awareness Use Only)
 
----
-
 ###  **1. Personal OPSEC & Anonymity**
 
 * [ ] Use a hardened virtual machine or disposable OS (e.g., Tails, Whonix).
